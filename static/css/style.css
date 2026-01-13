@@ -1,0 +1,3 @@
+body { background: #f8f9fa; }
+.hero { background: linear-gradient(135deg,#0d6efd22,#6c757d22); border-radius: 12px; }
+.card-img-top { object-fit: cover; height: 160px; }
